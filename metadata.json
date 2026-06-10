@@ -1,0 +1,6 @@
+{
+  "name": "i Smile Dental Care",
+  "description": "Ranchi's trusted modern dental clinic in Lalpur for Implants, RCT, Teeth Whitening, Braces, and complete oral care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
